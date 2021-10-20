@@ -7,6 +7,6 @@
         "businessId": {
                 "displayName": "Business ID",
                 "type": "number"
-        },
+        }
 }
 
