@@ -7,6 +7,10 @@
         "businessId": {
                 "displayName": "Business ID",
                 "type": "number"
+        },
+        "autoGenerateSitemap": {
+                "displayName": "Auto-generate Site Map",
+                "type": "boolean"
         }
 }
 
